@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": false,
+        "lib": ["DOM"],
+        "strict": true
+    }
+}
