@@ -18,7 +18,7 @@ type geoDataTypes = {
 // ----------------------------------------------------------------
 //- Port number
 const port = process.env.PORT || 3000;
-//
+
 // ----------------------------------------------------------------
 //- Defined paths for express config
 const publicDirectoryPath = path.join(__dirname, '../public');
